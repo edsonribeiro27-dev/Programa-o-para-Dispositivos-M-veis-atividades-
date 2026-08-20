@@ -18,3 +18,4 @@ void main() {
   print('Soma dos quadrados: $somaDosQuadrados');
   print('Diferença: $diferenca');
 }
+
